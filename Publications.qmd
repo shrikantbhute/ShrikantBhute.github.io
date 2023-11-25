@@ -1,0 +1,51 @@
+---
+title: "Publications"
+---
+
+## Peer-Reviewed Publication
+
+1.  Snyder C, Centlivre JP, **Bhute SS**, Shipman G, Friel AD, Viver T, Palmer M, Konstantinidis KT, Sun HJ, Rossello-Mora R, Nadeau J, Hedlund BP. 2022. Microbial motility at the bottom of North America: Digital holographic microscopy and genomic motility signatures in Badwater Spring, Death Valley National Park. [Astrobiology](https://www.liebertpub.com/doi/full/10.1089/ast.2022.0090).
+
+2.  **Bhute SS**#, Mefferd CC#, Phan JR, Ahmed M, Fox-King AE, Alarcia S, Villarama JV, Abel-Santos\* E, Hedlund BP\*. 2021. A high-carbohydrate diet prolongs dysbiosis and Clostridioides difficile carriage in a hamster model of infection. [Microbiology Spectrum](https://journals.asm.org/doi/full/10.1128/spectrum.01804-21).
+
+3.  **Bhute SS,** Escobedo B, Haider M, Mekonen Y, Ferrer D, Hillyard SD, Friel AD, Breukelen FV, Hedlund BP. 2020. The Devils Hole pupfish gut microbiome and its potential role in paradoxical anaerobism. [Animal Microbiome](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-020-00037-5).
+
+4.  Suryavanshi MV, Bharti N, **Bhute SS**, Chembili V, Chavan P, Shouche YS. 2020. Surveillance of root-associated microbiome of oxalogenic Colocasia esculenta (Linn) plant reveals distinct bacterial species diversity. [Journal of Pure and Applied Microbiology](v).
+
+5.  Gaike A\*, Paul D\*, **Bhute SS\***, Dhotre D, Pande P, Upadhyaya S, Reddy Y, Sampath R, Ghosh D, Acharya J, Banerjee G, Sinkar V, Ghaskadbi S, Shouche Y. 2020. The gut microbial diversity of newly diagnosed diabetics but not of prediabetics is significantly different from that of healthy nondiabetics. [mSystems](https://journals.asm.org/doi/10.1128/msystems.00578-19).
+
+6.  Mefferd CC\*, **Bhute SS\***, Phan J, Villarama J, Do D, Alarcia S, Abel-Santos E, Hedlund BP. 2020. A high-fat/high-protein, Atkins-type diet exacerbates Clostridioides (Clostridium) difficile infection in mice, whereas a high-carbohydrate diet protects. [mSystems](https://journals.asm.org/doi/full/10.1128/msystems.00765-19).
+
+7.  Mohamad OAA, Ma J, Liu Y, Li L, Zhang D, Shao H, **Bhute SS**, Hedlund BP, Li W. 2020. Beneficial endophytic bacterial populations associated with medicinal plant Thymus vulgaris alleviate salt stress and confer resistance to Fusarium oxysporum. [Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2020.00047/full).
+
+8.  Zhou E, Adegboruwa AL, Mefferd CC, **Bhute SS**, Murugapiran SK, Dodsworth JA, Thomas SC, Bengtson AJ, Liu L, Xian W, Li W, Hedlund BP. 2020. Diverse respiratory capacity among Thermus strains from US Great Basin hot springs. [Extremophiles](https://link.springer.com/article/10.1007/s00792-019-01131-6).
+
+9.  Suryavanshi MV, **Bhute SS**, Gune RP, Shouche YS. 2018. Functional eubacteria species along with trans-domain gut inhabitants favour dysgenic diversity in oxalate stone disease. [Scientific reports](v).
+
+10. Suryavanshi MV, **Bhute SS**, Kajale SC, Gune RP, Shouche YS. 2018. Molecular imprints of bacteria in oxalate containing kidney stone: A preliminary report. [Journal of Clinical & Diagnostic Research](https://www.jcdr.net/article_abstract.asp?issn=0973-709x&year=2018&volume=12&issue=3&page=DC06&issn=0973-709x&id=11341).
+
+11. Adebayo AS, Suryavanshi MV, **Bhute SS**, Agunloye AM, Isokpehi RD, Anumudu CI, Shouche YS. 2017. The microbiome in urogenital schistosomiasis and induced bladder pathologies. [PLOS Neglected Tropical Diseases](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005826).
+
+12. Gopal M, **Bhute SS**, Gupta A, Prabhu SR, Thomas GV, Whitman WB, Jangid K. 2017. Changes in structure and function of bacterial communities during coconut leaf vermicomposting. [Antonie van Leeuwenhoek](https://link.springer.com/article/10.1007/s10482-017-0894-7).
+
+13. Suryavanshi MV, Paul D, Doijad SP, **Bhute SS**, Hingamire TB, Gune RP, Shouche YS. 2017. Draft genome sequence of Lactobacillus plantarum strains E2C2 and E2C5 isolated from human stool culture. [Standards in Genomics Sciences](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-017-0222-x).
+
+14. **Bhute SS**, Suryavanshi MV, Joshi SM, Yajnik CS, Shouche YS, Ghaskadbi SS. 2017. Gut microbial diversity assessment of Indian type-2-diabetics reveals alterations in eubacteria, archaea and eukaryotes. [Frontiers in Microbiology](https://www.frontiersin.org/articles/10.3389/fmicb.2017.00214/full).
+
+15. Banskar S, **Bhute SS**, Suryavanshi M, Punekar S, Shouche Y. 2016. Microbiome analysis reveals the abundance of bacterial pathogens in Rousettus leschenaultii guano. [Scientific Reports](https://www.nature.com/articles/srep36948).
+
+16. Suryavanshi M\*, **Bhute SS**\*, Jadhav S, Gune R, Shouche Y. 2016. Hyperoxaluria leads to dysbiosis and drives selective enrichment of oxalate metabolizing bacterial species in recurrent kidney stone endures. [Scientific Reports](https://www.nature.com/articles/srep34712).
+
+17. Suryavanshi MV, **Bhute SS**, Bharti N, Pawar K, Shouche YS. 2016. Eubacterial diversity and oxalate metabolizing bacterial species (OMBS) reflect oxalate metabolism potential in Odontotermes gut. [Journal of Pure and Applied Microbiology](https://microbiologyjournal.org/eubacterial-diversity-and-oxalate-metabolizing-bacterial-species-ombs-reflect-oxalate-metabolism-potential-in-odontotermes-gut/).
+
+18. Hinge V, Tidke J, Das B, **Bhute SS**, Parab P, Apte K. 2016. Air pollution exacerbates effect of allergenic pollen proteins of Cassia siamea: A preliminary report. [Grana](https://www.tandfonline.com/doi/abs/10.1080/00173134.2016.1193221).
+
+19. **Bhute SS**\*, Pande P\*, Shetty S, Shelar R, Mane S, Kumbhare S, Gawali A, Makhani H, Navandar M, Dhotre D, Lubre H, Agarwal D, Patil R, Ozarkar S, Ghaskadbi S, Yajnik C, Juvekar S, Makharia G, Shouche Y. 2016. Molecular characterization and meta-analysis of gut microbial communities illustrate enrichment of Prevotella and Megasphaera in Indian Subjects. [Frontiers in Microbiology](https://www.frontiersin.org/articles/10.3389/fmicb.2016.00660/full).
+
+20. Paul D, Kumbhare S, Mhatre SM, Chowdhury SP, Shetty SA, Marathe NP, **Bhute** **SS**, Shouche YS. 2015. Exploration of microbial diversity and community structure of Lonar Lake: the only hypersaline meteorite crater lake within basalt rock. [Frontiers in Microbiology](https://www.frontiersin.org/articles/10.3389/fmicb.2015.01553/full).
+
+## Book Chapters
+
+1.  Banskar Sunil and **Bhute SS**. 2021. Structure and function of healthy Human microbiome: Role in health and disease. In: D. Dhanasekaran, Dhiraj Paul, Yogesh Shouche, N. Amarasen and A. Sankaranarayanan (Eds) - [Microbiome-Host Interactions](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003037521-9/structure-function-healthy-human-microbiome-sunil-banskar-shrikant-bhute?context=ubx&refId=fd604a72-0dcb-42f2-9a34-6d722413e1bb).
+
+2.  **Bhute SS**, Ghaskadbi SS, Shouche YS. 2017. Rare Biosphere in Human Gut: A less explored component of human gut microbiota and its association with human health. In: Kalia V., Shouche Y., Purohit H., Rahi P. (Eds) - [Mining of Microbial Wealth and MetaGenomics](https://link.springer.com/chapter/10.1007/978-981-10-5708-3_8).

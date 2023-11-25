@@ -1,0 +1,165 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Education
+
++--------------------------------------------------------------------------------------------------------------------+-----------+
+| **Savitribai Phule Pune University, Department of Zoology**                                                        | **Pune**  |
+|                                                                                                                    |           |
+| Ph.D., Zoology                                                                                                     | 2012-2017 |
+|                                                                                                                    |           |
+| Advisors: Prof. Saroj Ghaskadbi & Dr. Yogesh Shouche                                                               |           |
+|                                                                                                                    |           |
+| Thesis: "Molecular profiling and comparative analysis of gut microbiome of diabetic and non-diabetic individuals." |           |
++--------------------------------------------------------------------------------------------------------------------+-----------+
+| **University of Pune**                                                                                             | **Pune**  |
+|                                                                                                                    |           |
+| M. Sc. in Microbiology                                                                                             | 2004-2006 |
++--------------------------------------------------------------------------------------------------------------------+-----------+
+| **University of Pune**                                                                                             | **Pune**  |
+|                                                                                                                    |           |
+| B. Sc. in Microbiology                                                                                             | 1999-2002 |
++--------------------------------------------------------------------------------------------------------------------+-----------+
+
+## Research Experience
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
+| **Jacob's Lab & Goodman-Luskin Microbiome Center, UC Los Angeles**                                                                                                                                      | **Los Angeles**     |
+|                                                                                                                                                                                                         |                     |
+| **Associate Project Scientist**                                                                                                                                                                         | Aug 2023 - Present  |
+|                                                                                                                                                                                                         |                     |
+| -   Implementing and refining sequence-based microbiome assays.                                                                                                                                         |                     |
+|                                                                                                                                                                                                         |                     |
+| -   Assisting Microbiome Core functionalities.                                                                                                                                                          |                     |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
+| **Center for Microbiome Innovation, University of California San Diego**                                                                                                                                | **San Diego**       |
+|                                                                                                                                                                                                         |                     |
+| **Postdoctoral fellow**                                                                                                                                                                                 | Jan 2021 - Aug 2023 |
+|                                                                                                                                                                                                         |                     |
+| -   Contributed to the industry-sponsored project (EMD-Serono-Millipore and  Pfizer) to deplete the host DNA from the total metagenomic DNA.                                                            |                     |
+|                                                                                                                                                                                                         |                     |
+| -   Contributed to developing a miniaturized protocol for surveying SARS-CoV-2 from wastewater using metatranscriptomics and advanced liquid handling robots -- SPT LabTech Mosquito, Labocyte Echo.    |                     |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
+| **University of Nevada, Las Vegas**                                                                                                                                                                     | **Las Vegas**       |
+|                                                                                                                                                                                                         |                     |
+| **Postdoctoral fellow**                                                                                                                                                                                 | 2018- 2021          |
+|                                                                                                                                                                                                         |                     |
+| -   Applied an integrated omics approach to assess the effect of diets on the relapse of Clostridium difficile infections.                                                                              |                     |
+|                                                                                                                                                                                                         |                     |
+| -   Demonstrated the antibiotics-associated loss of C. difficile competitors due to high-fat/high-protein diets and its association with C. difficile proliferation and virulence.                      |                     |
+|                                                                                                                                                                                                         |                     |
+| -   Characterized gut microbiota of endangered Mojave Desert pupfish (Cyprinodon species) and proposed its involvement in the paradoxical anaerobism observed in these fish.                            |                     |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
+| **Savitribai Phule Pune University, Department of Zoology**                                                                                                                                             | **Pune**            |
+|                                                                                                                                                                                                         |                     |
+| **Ph.D. Student**                                                                                                                                                                                       | 2012-2017           |
+|                                                                                                                                                                                                         |                     |
+| -   Characterized healthy human gut microbiota of representative samples from the Indian population, leading to the identification of predominance of Prevotella and Megasphaera in Indian individuals. |                     |
+|                                                                                                                                                                                                         |                     |
+| -   Performed comparative meta-analysis and demonstrated the graded difference of the Indian gut microbial communities from the neighboring and other countries.                                        |                     |
+|                                                                                                                                                                                                         |                     |
+| -   Provided evidence of the consolidated dysbiosis across the members of three domains of life in the gut of diabetic subjects.                                                                        |                     |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
+| **National Centre for Cell Sciences**                                                                                                                                                                   | **Pune**            |
+|                                                                                                                                                                                                         |                     |
+| Other research work during my Ph.D.                                                                                                                                                                     | 2012-2017           |
+|                                                                                                                                                                                                         |                     |
+| -   Demonstrated a selective enrichment of Oxalate Metabolizing Bacterial Species (OMBS) in hyperoxaluria and the role of gut microbiota in oxalate homeostasis.                                        |                     |
+|                                                                                                                                                                                                         |                     |
+| -   Used large-scale culture-dependent and culture-independent approaches and indicated potential bacterial pathogens in Rousettus leschenaultii guano                                                  |                     |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
+
+## Teaching Experience
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
+| **University of Nevada, Las Vegas**                                                                                                                                                                                                                    | **Las Vegas**             |
+|                                                                                                                                                                                                                                                        |                           |
+| Course: General Microbiology (Biol 251)                                                                                                                                                                                                                | 2020, 2019, 2018 (Summer) |
+|                                                                                                                                                                                                                                                        |                           |
+| Activities: Designed and delivered 20 lectures                                                                                                                                                                                                         |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| Graded four assignments and in-class exercises; held regular one-on-one office hours                                                                                                                                                                   |                           |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
+| **Department of Microbiology, Modern College of Arts, Science and Commerce**                                                                                                                                                                           | **Pune**                  |
+|                                                                                                                                                                                                                                                        |                           |
+| Assistant Professor (Ad-Hoc)                                                                                                                                                                                                                           | 2016-2017                 |
+|                                                                                                                                                                                                                                                        |                           |
+| Courses: Microbial Taxonomy, Virology                                                                                                                                                                                                                  |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| Activities: Delivered lectures based on the syllabus designed by the University; managed laboratory sessions; conducted in-class exercises; held regular one-on-one office hours; planned visits to research institutes                                |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| Research:                                                                                                                                                                                                                                              |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| -   Characterization of silver and gold nanoparticles produced by Fusarium species                                                                                                                                                                     |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| -   Culturable diversity of two soccer fields' soil samples                                                                                                                                                                                            |                           |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
+| **Department of Biochemistry, Fergusson College**                                                                                                                                                                                                      | **Pune**                  |
+|                                                                                                                                                                                                                                                        |                           |
+| Visiting Faculty                                                                                                                                                                                                                                       | 2014-2016                 |
+|                                                                                                                                                                                                                                                        |                           |
+| Course: Bioinformatics                                                                                                                                                                                                                                 |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| Activities: Delivered lectures based on the syllabus designed by the University; managed laboratory sessions, conducted in-class exercises; held regular one-on-one office hours                                                                       |                           |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
+| **Department of Microbiology, New Arts, Commerce & Science College**                                                                                                                                                                                   | **Ahmednagar**            |
+|                                                                                                                                                                                                                                                        |                           |
+| Assistant Professor                                                                                                                                                                                                                                    | 2006-2010                 |
+|                                                                                                                                                                                                                                                        |                           |
+| Courses: General Microbiology, Molecular Biology, Immunology, Microbial Taxonomy, Virology, Bioinstrumentation, Biostatistics, and Bioinformatics                                                                                                      |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| Activities: Delivered lectures based on the syllabus designed by the University; managed laboratory sessions; conducted in-class exercises; held regular one-on-one office hours; integrated guest lectures; and planned visits to research institutes |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| Research:                                                                                                                                                                                                                                              |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| -   Degradation of food colorants by intestinal bacteria                                                                                                                                                                                               |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| -   Exploration of Pseudomonas species as phosphate solubilizer, plant growth promoter, biocontrol agent, and pesticide degrader                                                                                                                       |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| -   Antimicrobial properties of Withania somnifera root extracts                                                                                                                                                                                       |                           |
+|                                                                                                                                                                                                                                                        |                           |
+| -   Effect of solar radiations on the growth of food- and water-borne pathogens during the solar eclipse.                                                                                                                                              |                           |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
+
+## Selected Meeting Presentations
+
+**Talks and Seminars:**
+
+Delivered a seminar entitled -- "Molecular profiling and comparative analysis of gut microbiome of diabetic and non-diabetic individuals" at the School of Life Science seminar series at UNLV, Las Vegas. September 21, 2018.
+
+Delivered a seminar on -- "Isolation and purification of biomolecules" at the Institute of Science, Mumbai, on November 06, 2017, during the National Eligibility Test/State Eligibility Test workshop.
+
+Delivered a talk on 'Sequence alignment and analysis' at a State-level workshop on computational methods in life sciences at New Arts, Commerce, and Science College Ahmednagar, organized and sponsored by Savitribai Phule University Pune University, September 26, 2017.
+
+Delivered a seminar on -- "Biophysical Methods" at the Institute of Science, Mumbai, on December 02, 2011, during the National Eligibility Test/State Eligibility Test workshop.
+
+**Conferences and Symposia:**
+
+**Bhute SS**, Joshi S, Ghaskadbi S, Yajnik C, Shouche Y 2018. Presented poster at Manipulation of the Gut Microbiota for Metabolic Health (X3); Fairmont Banff Springs, Banff, Canada; March 4-8, 2018.
+
+Attended the third meeting of Bergey's International Society for Microbial Systematics (BISMiS) on Microbial Systematics and Metagenomics, organized jointly by BISMiS, Microbial Culture Collection, and the Association of Microbiologists of India on September 12 -- 15, 2016.
+
+**Bhute SS**, Joshi S, Ghaskadbi S, Yajnik C, Shouche Y. 2015. Presented poster at Cell-CHIN-Symposia: Human Immunity and the Microbiome in Health and Disease; at Hotel Bonaventure, Montreal, Canada; 27-29th Sep 2015.
+
+**Bhute SS**, Joshi S, Ghaskadbi S, Yajnik C, Shouche Y. 2015. Presented poster at two days symposium on "Probiotics: from Bench to Community" Organized by Yakult India Microbiota and Probiotics Science Foundation at The Grand Hotel, New Delhi; March 07-08, 2015. 
+
+**Bhute SS**, Joshi S, Ghaskadbi S, Yajnik C, Shouche Y. 2014. Presented poster at two days symposium on "Probiotics, Microbiome and Gut functions: Transforming Health and Well-being" Organized by Yakult India Microbiota and Probiotics Science Foundation; at The Eros Hotel, New Delhi; February 15-16, 2014. 
+
+Attended the Symposium on 'Microbes: Molecular Ecology and Systematics' organized by Microbial Culture Collection and the Association of Microbiologists of India on September 11 and 12, 2012.
+
+**Workshops:**
+
+Conducted a hands-on tutorial on -- "Analysis of 16S rRNA sequence data using QIIME" organized for teachers from undergraduate and postgraduate life sciences departments at the state-level workshop on techniques in molecular phylogenetic analysis, 5-8 January 2016 organized by the Department of Botany, Savitribai Phule Pune University, Pune.
+
+## Professional Services
+
+**Editorial Board Member:**
+
+BMC Microbiology, BioMed Research International
+
+**Peer Review:**
+
+Scientific Report, MDPI Diagnostics, International Journal of Obesity, Microbiological Research, Functional Ecology, Journal of Clinical Medicine, PLOS ONE, Water Research, AIMS Environmental Science, Current Science, Microbiological Research, Frontiers in Microbiology, Frontiers in Oncology, Frontiers in Cellular and Infection Microbiology, Frontiers in Ecology and Evolution, Frontiers in Medicine, and Bergey's Manual of Systematic Bacteriology.
+
+**Grant Review:** Graduate Women in Science

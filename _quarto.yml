@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Shrikant Bhute"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Notable Projects.qmd
+      - CV.qmd
+      - Publications.qmd
+      - Contact.qmd
+    right: 
+      
+      - icon: github
+        href: https://github.com/shrikantbhute
+        
+      - icon: twitter
+        href: https://twitter.com/bhuteshrikant
+      - icon: linkedin
+        href: https://linkedin.com/in/shrikantbhute
+    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

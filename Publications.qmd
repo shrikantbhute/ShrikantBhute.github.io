@@ -10,7 +10,7 @@ title: "Publications"
 
 3.  **Bhute SS,** Escobedo B, Haider M, Mekonen Y, Ferrer D, Hillyard SD, Friel AD, Breukelen FV, Hedlund BP. 2020. The Devils Hole pupfish gut microbiome and its potential role in paradoxical anaerobism. [Animal Microbiome](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-020-00037-5).
 
-4.  Suryavanshi MV, Bharti N, **Bhute SS**, Chembili V, Chavan P, Shouche YS. 2020. Surveillance of root-associated microbiome of oxalogenic Colocasia esculenta (Linn) plant reveals distinct bacterial species diversity. [Journal of Pure and Applied Microbiology](v).
+4.  Suryavanshi MV, Bharti N, **Bhute SS**, Chembili V, Chavan P, Shouche YS. 2020. Surveillance of root-associated microbiome of oxalogenic Colocasia esculenta (Linn) plant reveals distinct bacterial species diversity. [Journal of Pure and Applied Microbiology](https://microbiologyjournal.org/surveillance-of-root-associated-microbiome-of-oxalogenic-colocasia-esculenta-linn-plant-reveals-distinct-bacterial-species-diversity/).
 
 5.  Gaike A\*, Paul D\*, **Bhute SS\***, Dhotre D, Pande P, Upadhyaya S, Reddy Y, Sampath R, Ghosh D, Acharya J, Banerjee G, Sinkar V, Ghaskadbi S, Shouche Y. 2020. The gut microbial diversity of newly diagnosed diabetics but not of prediabetics is significantly different from that of healthy nondiabetics. [mSystems](https://journals.asm.org/doi/10.1128/msystems.00578-19).
 
@@ -20,7 +20,7 @@ title: "Publications"
 
 8.  Zhou E, Adegboruwa AL, Mefferd CC, **Bhute SS**, Murugapiran SK, Dodsworth JA, Thomas SC, Bengtson AJ, Liu L, Xian W, Li W, Hedlund BP. 2020. Diverse respiratory capacity among Thermus strains from US Great Basin hot springs. [Extremophiles](https://link.springer.com/article/10.1007/s00792-019-01131-6).
 
-9.  Suryavanshi MV, **Bhute SS**, Gune RP, Shouche YS. 2018. Functional eubacteria species along with trans-domain gut inhabitants favour dysgenic diversity in oxalate stone disease. [Scientific reports](v).
+9.  Suryavanshi MV, **Bhute SS**, Gune RP, Shouche YS. 2018. Functional eubacteria species along with trans-domain gut inhabitants favour dysgenic diversity in oxalate stone disease. [Scientific reports](https://www.nature.com/articles/s41598-018-33773-5).
 
 10. Suryavanshi MV, **Bhute SS**, Kajale SC, Gune RP, Shouche YS. 2018. Molecular imprints of bacteria in oxalate containing kidney stone: A preliminary report. [Journal of Clinical & Diagnostic Research](https://www.jcdr.net/article_abstract.asp?issn=0973-709x&year=2018&volume=12&issue=3&page=DC06&issn=0973-709x&id=11341).
 

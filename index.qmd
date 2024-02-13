@@ -31,16 +31,14 @@ PhD in Zoology \| April 2012 - July 2017
 
 Associate Project Scientist
 
-Jacobs Lab \| Goodman-Luskin Microbiome Center \|
+Jacobs Lab \| Goodman-Luskin Microbiome Center \| UCLA
 
-UCLA
+```{=html}
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/BhuteShrikant?ref_src=twsrc%5Etfw">Tweets by BhuteShrikant</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-html
+<blockquoate class="twitter-tweet">
 
-\<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/BhuteShrikant?ref_src=twsrc%5Etfw"\>Tweets by BhuteShrikant\</a\> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"\>\</script\>
+<p lang="eng" dir="ltr"> Tweet content here </p>--- Tweet User (@BhuteShrikant) <a href="Tweet URL"> Date</a>
 
-\<blockquoate class="twitter-tweet"\>
-
-\<p lang="eng" dir="ltr"\> Tweet content here \</p\>--- Tweet User (\@BhuteShrikant) <a href="Tweet URL"> Date\</a\>
-
-\</blockquoate\>
+</blockquoate>
+```

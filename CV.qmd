@@ -25,7 +25,7 @@ title: "Curriculum Vitae"
 ## Research Experience
 
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
-| **Jacob's Lab & Goodman-Luskin Microbiome Center, UC Los Angeles**                                                                                                                                      | **Los Angeles**     |
+| **Jacobs Lab & Goodman-Luskin Microbiome Center, UC Los Angeles**                                                                                                                                       | **Los Angeles**     |
 |                                                                                                                                                                                                         |                     |
 | **Associate Project Scientist**                                                                                                                                                                         | Aug 2023 - Present  |
 |                                                                                                                                                                                                         |                     |

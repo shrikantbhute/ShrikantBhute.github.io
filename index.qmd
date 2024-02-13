@@ -1,0 +1,46 @@
+---
+title: "Shrikant Bhute"
+about:
+  template: trestles
+  image: p3.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/bhuteshrikant
+    - icon: github
+      text: Github
+      href: https://github.com/shrikantbhute
+    - icon: linkedin
+      text: Linkedin
+      href: https://linkedin.com/in/shrikantbhute
+---
+
+**Welcome to the personal website of Shrikant Bhute!**
+
+## About
+
+Shrikant obtained his PhD from Savitribai Phule Pune University, Pune, India in 2017. His doctoral work involved characterization of [healthy Indian microbiome](https://www.frontiersin.org/articles/10.3389/fmicb.2016.00660/full) and its association with the [type-2-diabetes](https://www.frontiersin.org/articles/10.3389/fmicb.2017.00214/full). He then moved to University of Nevada Las Vegas (UNLV) for his postdoc in [Dr. Brian Hedlund's lab](https://hedlund.faculty.unlv.edu/). In the Hedlund lab, Shrikant worked on mouse and hamster models of *Clostridioides difficile* infection (CDI) and suggested that high-protein diet exacerbates the CDI outcome, whereas the high-carbohydrate diet was mostly protective in mouse model. Interesting observation from this study was that although the high-carbohydrate diet was protective, it led to the long-term carriage of *C. difficile* in both the animal models, indicating a complex interaction between diets and outcome and severity of CDI. After his first postdoc, Shrikant moved to the [Center for Microbiome Innovation](https://cmi.ucsd.edu/) at UC San Diego where he worked as a postdoc on the industry-sponsored projects related to the host DNA depletion from metagenomic samples. He was actively involved in the development of novel methods for depleting host DNA from metagenomic samples. Shrikant is currently working at UC Los Angeles as a Associate Project Scientist in the [Jacobs Lab](https://www.uclahealth.org/departments/medicine/gastro/jacobs-lab) and he also serves as a Microbiome Core Manager at UCLA's Goodman-Luskin Microbiome Center. Overall, Shrikant has over twelve years of experience in microbiome science and published over [25 scientific papers](https://scholar.google.co.in/citations?user=8qWEDdIAAAAJ&hl=en) related to microbiome and microbial ecology of human gut and other habitats in reputed journals.
+
+## Education
+
+Savitribai Phule Pune University \| Pune \| India
+
+PhD in Zoology \| April 2012 - July 2017
+
+## Current Position
+
+Associate Project Scientist
+
+Jacobs Lab \| Goodman-Luskin Microbiome Center \|
+
+UCLA
+
+html
+
+\<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/BhuteShrikant?ref_src=twsrc%5Etfw"\>Tweets by BhuteShrikant\</a\> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"\>\</script\>
+
+\<blockquoate class="twitter-tweet"\>
+
+\<p lang="eng" dir="ltr"\> Tweet content here \</p\>--- Tweet User (\@BhuteShrikant) <a href="Tweet URL"> Date\</a\>
+
+\</blockquoate\>
